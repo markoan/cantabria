@@ -1,0 +1,4 @@
+baseURL = "https://cantabria.recioy.com/"
+languageCode = "es-mx"
+title = "Abastos Cantabria"
+theme = "hargo"
